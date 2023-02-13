@@ -2,9 +2,9 @@
 코딩 테스트를 위한 공부 정리 레포
 
 ### 그리디
-  1. 큰 수의 법칙
-  2. 숫자 카드 게임
-  3. 1이 될 때까지
+  [1. 큰 수의 법칙](#https://github.com/oio337a/Python-Coding-Test-Study/blob/master/Greedy/law_of_large_numbers.py)
+  [2. 숫자 카드 게임](#https://github.com/oio337a/Python-Coding-Test-Study/blob/master/Greedy/number_card_game.py)
+  [3. 1이 될 때까지](#https://github.com/oio337a/Python-Coding-Test-Study/blob/master/Greedy/become_until_1.py)
 ## 구현
   1. 왕실의 나이트
   2. 게임 개발
