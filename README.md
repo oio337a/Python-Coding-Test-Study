@@ -10,19 +10,18 @@
 
 ## 구현
 
-1. [왕실의 나이트](https://github.com/oio337a/Python-Coding-Test-Study/blob/master/Greedy/royal_night.py)
-2. [게임 개발](https://github.com/oio337a/Python-Coding-Test-Study/blob/master/Greedy/game_development.py)
+1. [왕실의 나이트](https://github.com/oio337a/Python-Coding-Test-Study/blob/master/Implementation/royal_night.py)
+2. [게임 개발](https://github.com/oio337a/Python-Coding-Test-Study/blob/master/Implementation/game_development.py)
 
 ## DFS/BFS
 
-1. 음료수 얼려 먹기
-2. 미로 탈출
+1. [음료수 얼려 먹기](https://github.com/oio337a/Python-Coding-Test-Study/blob/master/DFS_BFS/make_ice_cream.py)
+2. [미로 탈출](https://github.com/oio337a/Python-Coding-Test-Study/blob/master/DFS_BFS/mage_escape.py)
 
 ## 정렬
 
-1. 위에서 라래로
-2. 성적이 낮은 순서로 학생 출력하기
-3. 두 배열의 우너소 교체
+1. [위에서 라래로](https://github.com/oio337a/Python-Coding-Test-Study/blob/master/Sorting/top_to_bottom.py)
+3. [두 배열의 원소 교체](https://github.com/oio337a/Python-Coding-Test-Study/blob/master/Sorting/swap_elements_of_two_arr.py)
 
 ## 이진 탐색
 
