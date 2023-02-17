@@ -16,7 +16,7 @@
 ## DFS/BFS
 
 1. [음료수 얼려 먹기](https://github.com/oio337a/Python-Coding-Test-Study/blob/master/DFS_BFS/make_ice_cream.py)
-2. [미로 탈출](https://github.com/oio337a/Python-Coding-Test-Study/blob/master/DFS_BFS/mage_escape.py)
+2. [미로 탈출](https://github.com/oio337a/Python-Coding-Test-Study/blob/master/DFS_BFS/maze_escape.py)
 
 ## 정렬
 
