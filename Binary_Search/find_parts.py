@@ -30,7 +30,7 @@ for i in find:
 
 # ---------------------------------------------------------- #
 '''
- ---- case 1 ----
+ ---- case 2 ----
  카운트 정렬
 '''
 
@@ -45,6 +45,24 @@ for i in arr:
 	count_sort[i - 1] += 1
 for check in find:
 	if count_sort[check -1] != 0:
+		print("yes", end=" ")
+	else:
+		print("no", end=" ")
+
+# ---------------------------------------------------------- #
+'''
+ ---- case 3 ----
+ 집합 자료형 사용
+'''
+
+n = int(input())
+arr = set(map(int, input().split()))
+
+m = int(input())
+find = list(map(int, input().split()))
+
+for i in find:
+	if i in arr:
 		print("yes", end=" ")
 	else:
 		print("no", end=" ")
