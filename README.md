@@ -20,7 +20,7 @@
 
 ## 정렬
 
-1. [위에서 라래로](https://github.com/oio337a/Python-Coding-Test-Study/blob/master/Sorting/top_to_bottom.py)
+1. [위에서 아래로](https://github.com/oio337a/Python-Coding-Test-Study/blob/master/Sorting/top_to_bottom.py)
 3. [두 배열의 원소 교체](https://github.com/oio337a/Python-Coding-Test-Study/blob/master/Sorting/swap_elements_of_two_arr.py)
 
 ## 이진 탐색
