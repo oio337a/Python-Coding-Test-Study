@@ -28,3 +28,23 @@ for i in find:
 	else:
 		print("no", end=" ")
 
+# ---------------------------------------------------------- #
+'''
+ ---- case 1 ----
+ 카운트 정렬
+'''
+
+n = int(input())
+arr = list(map(int, input().split()))
+m = int(input())
+find = list(map(int, input().split()))
+
+arr.sort()
+count_sort = [0] * arr[-1]
+for i in arr:
+	count_sort[i - 1] += 1
+for check in find:
+	if count_sort[check -1] != 0:
+		print("yes", end=" ")
+	else:
+		print("no", end=" ")
